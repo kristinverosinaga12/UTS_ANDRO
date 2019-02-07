@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_ANDRO</string>
+
+    <string-array name="jenis_kelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
